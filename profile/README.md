@@ -1,4 +1,5 @@
-## Hi there 👋
+## IEDC CET
+Welcome to the Innovation and Entrepreneurship Development Cell (IEDC) of College of Engineering Trivandrum (CET).
 
 <!--
 
